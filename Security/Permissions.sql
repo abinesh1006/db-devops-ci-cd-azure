@@ -1,0 +1,7 @@
+﻿GRANT ALTER ANY USER TO [sqladmin]
+    WITH GRANT OPTION;
+
+
+GO
+GRANT CONNECT TO [sqladmin];
+
